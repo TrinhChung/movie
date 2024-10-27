@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slider-container {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.movie-card {
+  width: 200px; /* Thay đổi kích thước theo ý muốn */
+  background-color: white;
+}
